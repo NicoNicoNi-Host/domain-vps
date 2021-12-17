@@ -19,7 +19,7 @@
 | 网站 | URL | 重定向 |
 |---|---|---|
 | 宝塔面板 | http://vps2.niconicoli.com:8888/seito | http://150.230.192.222:8888/seito |
-| 宝塔面板-反向代理 | https://bt2.niconicoli.com/seito |  |
+| 宝塔面板-反向代理 | https://bt2.niconicoli.com/seito | http://150.230.192.222:8888/seito |
 |  |  |  |
 |  |  |  |
 
