@@ -9,16 +9,17 @@
 # vps1
 | 网站 | URL | IP |
 |---|---|---|
-| 宝塔面板 | http://vps1.niconicoli.com:8888/36b59849/ | http://150.230.108.224:8888/36b59849 |
+| 宝塔面板 | http://vps1.niconicoli.com:8888/seito/ | http://150.230.108.224:8888/seito |
 | zfile | http://vps1.niconicoli.com:8080/2/main | http://150.230.108.224:8080/2/main/root |
-|  |  |  |
+| trojan | https://vps1.trojan.niconicoli.com/#/dashboard |  |
 
 ---
 
 # vps2
 | 网站 | URL | 重定向 |
 |---|---|---|
-| 宝塔面板 | http://vps2.niconicoli.com:8888/68f0041d | http://150.230.192.222:8888/68f0041d |
+| 宝塔面板 | http://vps2.niconicoli.com:8888/seito | http://150.230.192.222:8888/seito |
+| 宝塔面板-反向代理 | https://bt2.niconicoli.com/seito |  |
 |  |  |  |
 |  |  |  |
 
